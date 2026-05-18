@@ -1,7 +1,7 @@
 # Campus Notifications App
 
 ## Overview
-This project is a React-based campus notifications dashboard developed for the Affordmed Campus Hiring Evaluation.
+This project is a React-based campus notifications dashboard developed developed as a campus notification management system
 
 The application fetches notifications from the provided API and displays them in a modern responsive UI.
 
